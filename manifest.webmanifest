@@ -1,0 +1,16 @@
+{
+  "name": "KoOo Mini POS Cloud",
+  "short_name": "KoOo Cloud POS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#101827",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
